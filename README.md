@@ -1,6 +1,8 @@
-# County Election Prediction Map
+# Election Prediction on the County level Map
 
-An interactive Streamlit application that visualizes and predicts county-level election outcomes based on demographic and economic factors.
+A machine learning project that aims to predict the voting outcomes of counties in the 2024 US federal election with an interactive Streamlit application that visualizes and predicts county-level election outcomes based on demographic and economic factors.
+
+A full write-up can be found on https://medium.com/@stoynove/2024-us-federal-election-prediction-with-machine-learning-ad941465de77 
 
 ## Features
 - Interactive US county map
@@ -18,6 +20,3 @@ pip install -r requirements.txt
 ```bash
 streamlit run county_outcomes_app.py
 ```
-
-## Data
-The app uses county-level data including demographic, economic, and political information to make predictions. 

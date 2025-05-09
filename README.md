@@ -1,5 +1,8 @@
 # Election Prediction on the County level 
 
+![image](https://github.com/user-attachments/assets/24051310-73ba-4898-b31f-cbdeb062f664)
+
+
 A machine learning project that aims to predict the voting outcomes of counties in the 2024 US federal election with an interactive Streamlit application that visualizes and predicts county-level election outcomes based on demographic and economic factors.
 
 A full write-up can be found on https://medium.com/@stoynove/2024-us-federal-election-prediction-with-machine-learning-ad941465de77 

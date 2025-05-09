@@ -1,4 +1,4 @@
-# Election Prediction on the County level Map
+# Election Prediction on the County level 
 
 A machine learning project that aims to predict the voting outcomes of counties in the 2024 US federal election with an interactive Streamlit application that visualizes and predicts county-level election outcomes based on demographic and economic factors.
 

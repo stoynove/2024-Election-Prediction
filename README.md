@@ -1,5 +1,23 @@
-# 2024-Election-Prediction
+# County Election Prediction Map
 
-After the results of the 2024 US federal election, I wanted to take a closer look at the socio-economic factors that played a role into voting behavior.  I thought it would be fun to make a predictive model of voting behavior based on some of the available county-level data sets to see which party each county would vote for. Information on how the data was gathered and prepared is in it's own file named "data cleaning & acquisition". 
+An interactive Streamlit application that visualizes and predicts county-level election outcomes based on demographic and economic factors.
 
-I used three machine learning models to make predictions; Logistic Regression, k-nearest neighbour and Random Forest. The strongest one after optimizing hyper-parameters was a Random Forest model with a final accuracy of around 93% and an ROC AUC score of ~95%. 
+## Features
+- Interactive US county map
+- Real-time prediction updates
+- Adjustable feature sliders
+- Top 10 most important features analysis
+
+## Setup
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+2. Run the app:
+```bash
+streamlit run county_outcomes_app.py
+```
+
+## Data
+The app uses county-level data including demographic, economic, and political information to make predictions. 

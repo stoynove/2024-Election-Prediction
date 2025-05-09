@@ -7,6 +7,8 @@ A machine learning project that aims to predict the voting outcomes of counties 
 
 A full write-up can be found on https://medium.com/@stoynove/2024-us-federal-election-prediction-with-machine-learning-ad941465de77 
 
+An interactive web app that lets you dial up or down the top 10 most influential features and visualize county-level voting outcomes for hypothetical scenarios can be found on https://2024-election-prediction-9qeupeias75pdtqp5lsejf.streamlit.app/
+
 ## Features
 - Interactive US county map
 - Real-time prediction updates
